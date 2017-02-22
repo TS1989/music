@@ -25,7 +25,7 @@
 		<junit.version>4.11</junit.version>						<!-- junit -->
 		<servlet.version>3.0.1</servlet.version>				<!-- servlet -->
 		<hibernate5.version>4.3.8.Final</hibernate5.version>	<!-- hibernate必备包 -->
-		<spring.version>4.3.4.RELEASE</spring.version>			<!-- Spring必备包 -->
+		<spring.version>4.3.4.RELEASE</spring.version>			<!-- Spring必备包 +springMVC -->
 		<android.version>1.0.4</android.version>				<!-- Android工具包 -->
 		<mysql.version>5.1.39</mysql.version>					<!-- MySQL驱动包 -->
 		<jstl.version>1.2</jstl.version>						<!-- jstl -->
